@@ -16,4 +16,6 @@
 
 ## Laboratory work tasks
 
-[Laboratory Work #1](https://github.com/DrVasile/CS-Labs)
+[Laboratory Work #1](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork1/laboratoryWork1Task.md)
+
+[Laboratory Work #2](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork2/laboratoryWork2Task.md)
