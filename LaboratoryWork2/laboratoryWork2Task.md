@@ -15,7 +15,7 @@
     - The execution is fast.
 - Block ciphers:
     - The encryption is done one block of plain text at a time.
-    - Block ciphers use confusion and diffusion to hite the plain text.
+    - Block ciphers use confusion and diffusion to hide the plain text.
     - Make use of transposition techniques to modify the plain text.
     - The implementation is simpler relative to the stream ciphers.
     - The execution is slow compared to the stream ciphers.
