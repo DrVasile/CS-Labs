@@ -55,7 +55,7 @@
    
 ## Implementation tips:
 
-1. In order to make the most out of OOP principles and make your project more flexible to changes you need to think in advance anout the following things:
+1. In order to make the most out of OOP principles and make your project more flexible to changes you need to think in advance about the following things:
     - What pieces of implementation could be shared in multiple classes. If you have such things maybe those could be raised on one level of abstraction higher (i.e. in a parent class).
     - Program using abstractions when possible. If you can abstract things away by using a parent class instead of the child ones do that, because it makes the implementation more flexible in case the child classes need to be changed.
     - Follow SOLID Principles. If needed we can discuss these at lectures.
