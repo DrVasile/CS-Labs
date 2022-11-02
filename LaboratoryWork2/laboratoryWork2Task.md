@@ -66,7 +66,7 @@
 1. The project should be located in a public repository on a git hosting service (e.g. Github, Gitlab, BitBucket etc.):
 
   * You only need to have one repository.
-  * You can structure the works in separare directories.
+  * You can structure the works in separate directories.
   * For now there is no need to use libs/frameworks.
 
 2. It should contain an explanation in the form of a Markdown with the standard structure from the REPORT_TEMPLATE.md file.
