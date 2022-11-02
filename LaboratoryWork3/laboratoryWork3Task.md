@@ -49,10 +49,10 @@
 
 3. In order to make the evaluation as optimal as possible you should obey the indications and document the project accordingly so that I could evaluate them by myself. The works can be presented by you as well if you want.
 
-4. You need to submit on ELSE the URL to the repository. (__NOTE__: Be aware that sometimes on ELSE you need to submit the assignment after it is in draft state. So if it is in draft it will not be evaluated).
+4. You need to submit on ELSE the URL to the report.
 
 5. If the work doesn't correspond to the requirements I'll revert the submission and leave some comments. If needed you can reach out and ask questions. 
 
-7. The deadline for this assignment is __26/10/2022::23:59:59:99__.
+7. The deadline for this assignment is __02/11/2022::23:59:59:99__.
 
 8. After the deadline, the students will have to present the laboratory works, and for each week, the max grade would be decreased by 1.
