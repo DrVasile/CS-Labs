@@ -28,14 +28,14 @@
 ## Objectives:
 1. Get familiar with the hashing techniques/algorithms.
 2. Use an appropriate hashing algorithms to store passwords in a local DB.
-  1. You can use already implemented algortihms from libraries provided for your language.
-  2. The DB choise is up to you, but it can be something simple, like an in memory one.
+    1. You can use already implemented algortihms from libraries provided for your language.
+    2. The DB choise is up to you, but it can be something simple, like an in memory one.
 3. Use an asymmetric cipher to implement a digital signature process for a user message.
-  1. Take the user input message.
-  2. Preprocess the message, if needed.
-  3. Get a digest of it via hashing.
-  4. Encrypt it with the chosen cipher.
-  5. Perform a digital signature check by comparing the hash of the message with the decrypted one.
+    1. Take the user input message.
+    2. Preprocess the message, if needed.
+    3. Get a digest of it via hashing.
+    4. Encrypt it with the chosen cipher.
+    5. Perform a digital signature check by comparing the hash of the message with the decrypted one.
 
    
 ## Implementation tips:
