@@ -19,3 +19,9 @@
 [Laboratory Work #1](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork1/laboratoryWork1Task.md)
 
 [Laboratory Work #2](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork2/laboratoryWork2Task.md)
+
+[Laboratory Work #3](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork3/laboratoryWork3Task.md)
+
+[Laboratory Work #4](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork4/laboratoryWork4Task.md)
+
+[Laboratory Work #5](https://github.com/DrVasile/CS-Labs/blob/master/LaboratoryWork5/laboratoryWork5Task.md)
